@@ -73,7 +73,7 @@
 
 
 /* PDM Microphone related macros - START (These macros are for debugging purpose) */
-#define ENABLE_PDM					/* Enables the PDM microphone code*/
+//#define ENABLE_PDM					/* Enables the PDM microphone code*/
 //#define DISABLE_DFB				/* Uncomment this macro if Droop filter compensation feature is not needed */
 /* PDM Microphone macros - END*/
 
